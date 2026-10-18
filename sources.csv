@@ -1,11 +1,11 @@
 name,source,kind
 s-bikini-line,laserwaxing-renewal/png/01-bikini-line.png,scene
-d-empathy,/Users/iljun/AI/roseanne-web/design/char-v4/d-empathy.png,char
-d-encourage,/Users/iljun/AI/roseanne-web/design/char-v4/d-encourage.png,char
-d-explain,/Users/iljun/AI/roseanne-web/design/char-v4/d-explain.png,char
-d-hello,/Users/iljun/AI/roseanne-web/design/char-v4/d-hello.png,char
-d-listen,/Users/iljun/AI/roseanne-web/design/char-v4/d-listen.png,char
-d-thoughtful,/Users/iljun/AI/roseanne-web/design/char-v4/d-thoughtful.png,char
+d-empathy,character-roles-v2/doctor/poses/05-empathy.png,char
+d-encourage,character-roles-v2/doctor/poses/06-encourage.png,char
+d-explain,character-roles-v2/doctor/poses/02-explain.png,char
+d-hello,character-roles-v2/doctor/poses/01-hello.png,char
+d-listen,character-roles-v2/doctor/poses/03-listen.png,char
+d-thoughtful,character-roles-v2/doctor/poses/04-thoughtful.png,char
 m-hello,/Users/iljun/AI/roseanne-web/design/char-v4/m-hello.png,char
 m-ponder,/Users/iljun/AI/roseanne-web/design/char-v4/m-ponder.png,char
 m-present,/Users/iljun/AI/roseanne-web/design/char-v4/m-present.png,char
