@@ -115,3 +115,7 @@ p-memo-worry-pain,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 
 p-calendar-worry,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/patient-03-calendar-worry.png (여백 잘라 변환 · 클로즈업용 -hd는 손으로),char
 p-cramps-pain,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/patient-03-cramps-pain.png (여백 잘라 변환 · 클로즈업용 -hd는 손으로),char
 p-diary-worry,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/patient-03-diary-worry.png (여백 잘라 변환 · 클로즈업용 -hd는 손으로),char
+p-memo-worry-pain-up,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/patient-03-memo-worry-pain.png (여백 자른 뒤 위쪽 476x595 상반신만 · 폭 240/480 · build.sh 대상 아님),upper-crop
+p-calendar-worry-up,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/patient-03-calendar-worry.png (여백 자른 뒤 위쪽 485x606 상반신만 · 폭 240/480 · build.sh 대상 아님),upper-crop
+p-cramps-pain-up,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/patient-03-cramps-pain.png (여백 자른 뒤 위쪽 477x660 상반신만 · 폭 240/480 · build.sh 대상 아님),upper-crop
+p-diary-worry-up,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/patient-03-diary-worry.png (여백 자른 뒤 위쪽 519x650 상반신만 · 폭 240/480 · build.sh 대상 아님),upper-crop
