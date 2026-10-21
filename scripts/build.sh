@@ -9,6 +9,7 @@ SRC="/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일
 OUT=img/char
 mkdir -p $OUT
 tail -n +2 sources.csv | while IFS=, read -r name src kind; do
+  [[ $kind == upper-crop ]] && continue   # 상반신 잘라 만든 그림(하단 안내 띠용)은 손으로 만든 것 — 다시 만들지 않음
   if [[ $src == /* ]]; then in="$src"; else in="$SRC/$src"; fi   # 절대 경로면 그대로
   [[ -f "$in" ]] || { echo "없음: $in"; exit 1; }
   if [[ $kind == char ]]; then key=pixelHeight; one=360; elif [[ $kind == upper ]]; then key=pixelWidth; one=800; else key=pixelWidth; one=640; fi   # upper = 원장 상반신(크게 쓰는 그림)
