@@ -124,3 +124,8 @@ vlaser/jillsof-needle,/Volumes/DataSSD/BCD Dropbox/Kwon Iljun/로즈앤 의료/�
 s-menopause-consult-walk,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/clinic-scene-25-menopause-consult.png (x175 y30 990x739를 4:3으로 잘라 폭 380/760 · 갱년기 진료 순서 상담 칸 · build.sh 대상 아님),upper-crop
 vlaser/rt4000,roseanne.co.kr 칼럼 idx=139339270 그림 74315dc145410.png (본체만 잘라 글자 · 인증 로고 지움 · 높이 360 · build.sh 대상 아님),upper-crop
 vlaser/photolaser,roseanne.co.kr 칼럼 idx=171188424 그림 720830296d808.png (장비 부분 340x645 잘라 높이 360 · build.sh 대상 아님),upper-crop
+s-yzone-step-consult,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/yzone-step-consult.png,scene
+s-yzone-step-exam,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/yzone-step-exam.png,scene
+s-yzone-step-plan,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/yzone-step-plan.png,scene
+s-yzone-labia,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/yzone-card-labia.png,scene
+r-majora,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/yzone-card-majora.png,char
