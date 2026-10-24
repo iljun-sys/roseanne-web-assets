@@ -130,7 +130,7 @@ s-yzone-step-plan,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 
 s-yzone-labia,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/yzone-card-labia.png,scene
 r-majora,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/yzone-card-majora.png,char
 r-majora-up,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/yzone-card-majora.png (위 48% 잘라 좌우 여백 · 대음순 카드용),upper-crop
-r-wax-period,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/wax-who-period.png,char
-r-wax-fresh,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/wax-who-fresh.png,char
-r-wax-follic,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/wax-who-folliculitis.png,char
-r-swimsuit-wide,img/char/r-swimsuit-hd.webp (머리~허벅지 960px 자르고 좌우 여백 1000폭 · 여성제모 01 카드용),upper-crop
+r-wax-period,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/wax-who-period.png (원본 캔버스에서 인물 키 기준 같은 비율로 자름 · 1.3:1),scene
+r-wax-fresh,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/wax-who-fresh.png (원본 캔버스에서 인물 키 기준 같은 비율로 자름 · 1.3:1),scene
+r-wax-follic,/Volumes/DataSSD/BCD Dropbox/로즈앤 디자인/08_콘텐츠 소스/02_일러스트/roseanne-final-images/wax-who-folliculitis.png (원본 캔버스에서 인물 키 기준 같은 비율로 자름 · 1.3:1),scene
+r-swimsuit-wide,img/char/r-swimsuit-hd.webp (r-wax-* 와 같은 인물 크기 · 1.3:1 틀 · 여성제모 01 임시),upper-crop
